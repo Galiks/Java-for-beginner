@@ -1,5 +1,6 @@
 package com.turchenkov.FirstLesson;
 
+import com.turchenkov.SecondLesson.Point;
 import com.turchenkov.SecondLesson.Singleton;
 import javafx.application.Application;
 import javafx.scene.Group;
@@ -17,7 +18,7 @@ public class Main extends Application {
 //
 //        Singleton a5 = Singleton.getObject(5);
 
-        A a = new A();
+       // A a = new A();
 
         //strictfp
 
@@ -30,15 +31,17 @@ public class Main extends Application {
 //        a4.test("qwe");
 //        a5.test(15);
 
-//        Point q = new Point(1,1);
-//        Point p = new Point(2,2);
-//
-//        q.x = 3;
-//        q.y = 3;
-//
-//        System.out.println(q.x + " " + q.y);
-//
-//        Point.origin.y = 5;
+        Point q = new Point(1,1);
+        Point p = new Point(2,2);
+
+        q.x = 3;
+        q.y = 3;
+
+        System.out.println(q.x + " " + q.y);
+
+        q.origin
+
+        Point.origin.y = 5;
 //
 //        System.out.println(Point.origin.y);
 
