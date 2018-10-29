@@ -4,6 +4,7 @@ import static com.turchenkov.ThirdLesson.Temp.cold;
 
 public class NewClass {
     static String a = "static A";
+    private int num = 1;
 
     static {
         System.out.println(a);
@@ -15,6 +16,15 @@ public class NewClass {
 
     {
         System.out.println("init A");
+    }
+
+    class B{
+        int num = 2;
+
+        void test(){
+            System.out.println(num);
+        }
+
     }
 
 }
