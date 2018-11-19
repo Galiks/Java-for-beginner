@@ -10,7 +10,7 @@ public class NewClass {
         Count count2 = new Count(1);
         Count count3 = new Count(3);
 
-        
+
 
 //        String n1 = "10";
 //        String n2 = "10";

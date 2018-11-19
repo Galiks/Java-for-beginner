@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Main extends Application {
 
     public static void main(String[] args){
+        System.out.println("HI");
 
 //        Singleton a4 = Singleton.getObject(4);
 //
