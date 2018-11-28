@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38bfb882-7952-406e-b7e5-8ea99345e372" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/turchenkov/EleventhLesson/Eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/turchenkov/TwelvethLesson/Twelve.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/turchenkov/EleventhLesson/Eleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/turchenkov/EleventhLesson/Eleven.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,48 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Eleven.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/turchenkov/EleventhLesson/Eleven.java">
+      <file leaf-file-name="Twelve.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/turchenkov/TwelvethLesson/Twelve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="153">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2112#2113#0" expanded="true" />
-                <element signature="e#2136#2137#0" expanded="true" />
-                <element signature="e#2198#2199#0" expanded="true" />
-                <element signature="e#2222#2223#0" expanded="true" />
-                <element signature="e#2366#2367#0" expanded="true" />
-                <element signature="e#2393#2394#0" expanded="true" />
-                <element signature="e#2433#2434#0" expanded="true" />
-                <element signature="e#2465#2466#0" expanded="true" />
-                <element signature="e#2492#2493#0" expanded="true" />
-                <element signature="e#2518#2519#0" expanded="true" />
-                <element signature="e#2553#2554#0" expanded="true" />
-                <element signature="e#2583#2584#0" expanded="true" />
-                <element signature="e#2611#2612#0" expanded="true" />
-                <element signature="e#2638#2639#0" expanded="true" />
-                <element signature="e#2675#2676#0" expanded="true" />
-                <element signature="e#2707#2708#0" expanded="true" />
+                <element signature="e#318#363#0" />
+                <element signature="class#SynchronizedTest#0" />
+                <element signature="class#MyThread#0" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#1445#1446#0" expanded="true" />
+                <element signature="e#1497#1498#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/stream/Stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="606" column="6" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BiFunction.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/BiFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -115,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/com/turchenkov/TenthLesson/NewClass.java" />
         <option value="$PROJECT_DIR$/src/com/turchenkov/TenthLesson/com/ec/TenLesson.java" />
         <option value="$PROJECT_DIR$/src/com/turchenkov/EleventhLesson/Eleven.java" />
+        <option value="$PROJECT_DIR$/src/com/turchenkov/TwelvethLesson/Twelve.java" />
       </list>
     </option>
   </component>
@@ -144,6 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -168,21 +144,20 @@
               <item name="Java-for-beginner" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="turchenkov" type="462c0819:PsiDirectoryNode" />
-              <item name="EleventhLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="TwelvethLesson" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-SSU" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -204,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Eleven">
+  <component name="RunManager" selected="Application.Twelve">
     <configuration name="Eleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.turchenkov.EleventhLesson.Eleven" />
       <module name="FirstLesson" />
@@ -223,17 +198,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.turchenkov.SeventhLesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="NewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.turchenkov.FifthLesson.NewClass" />
-      <module name="FirstLesson" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.turchenkov.FifthLesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,6 +246,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Twelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.turchenkov.TwelvethLesson.Twelve" />
+      <module name="FirstLesson" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.turchenkov.TwelvethLesson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -325,18 +300,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.NewClass" />
-      <item itemvalue="Application.SixMain" />
       <item itemvalue="Application.NewClass (1)" />
       <item itemvalue="Application.TenLesson" />
       <item itemvalue="Application.Eleven" />
+      <item itemvalue="Application.Twelve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Twelve" />
         <item itemvalue="Application.Eleven" />
         <item itemvalue="Application.TenLesson" />
         <item itemvalue="Application.NewClass (1)" />
-        <item itemvalue="Application.SixMain" />
-        <item itemvalue="Application.NewClass" />
       </list>
     </recent_temporary>
   </component>
@@ -366,11 +340,13 @@
       <workItem from="1542634403493" duration="555000" />
       <workItem from="1542808935956" duration="699000" />
       <workItem from="1542980887917" duration="6353000" />
+      <workItem from="1543238169495" duration="4474000" />
+      <workItem from="1543413528978" duration="5370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58365000" />
+    <option name="totallyTimeSpent" value="68209000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,6 +359,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32838285" />
@@ -390,17 +367,16 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5219365" side_tool="true" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5234493" side_tool="true" weight="0.33333334" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47806355" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47655067" visible="true" weight="0.3250825" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32838285" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31240544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4977307" weight="0.32838285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -412,6 +388,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4969743" weight="0.32838285" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,17 +399,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1921">
-          <caret line="113" column="39" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/turchenkov/FirstLesson/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -588,13 +558,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/production/FirstLesson/com/turchenkov/Start.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/turchenkov/SecondLesson/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FirstLesson.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -662,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="113" column="39" selection-start-line="113" selection-start-column="39" selection-end-line="113" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/turchenkov/ThirdLesson/NewClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="50" column="1" selection-start-line="30" selection-end-line="50" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -752,40 +708,55 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/BiFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="493">
           <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
+        <state relative-caret-position="17">
           <caret line="606" column="6" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/turchenkov/EleventhLesson/Eleven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="220">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2112#2113#0" expanded="true" />
-            <element signature="e#2136#2137#0" expanded="true" />
-            <element signature="e#2198#2199#0" expanded="true" />
-            <element signature="e#2222#2223#0" expanded="true" />
-            <element signature="e#2366#2367#0" expanded="true" />
-            <element signature="e#2393#2394#0" expanded="true" />
-            <element signature="e#2433#2434#0" expanded="true" />
-            <element signature="e#2465#2466#0" expanded="true" />
-            <element signature="e#2492#2493#0" expanded="true" />
-            <element signature="e#2518#2519#0" expanded="true" />
-            <element signature="e#2553#2554#0" expanded="true" />
-            <element signature="e#2583#2584#0" expanded="true" />
-            <element signature="e#2611#2612#0" expanded="true" />
-            <element signature="e#2638#2639#0" expanded="true" />
-            <element signature="e#2675#2676#0" expanded="true" />
-            <element signature="e#2707#2708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/turchenkov/SecondLesson/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/turchenkov/ThirdLesson/NewClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-659">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/turchenkov/TwelvethLesson/Twelve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#363#0" />
+            <element signature="class#SynchronizedTest#0" />
+            <element signature="class#MyThread#0" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
           </folding>
         </state>
       </provider>

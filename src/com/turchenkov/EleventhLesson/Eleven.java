@@ -58,6 +58,10 @@ public class Eleven implements Comparable, Comparator {
                 new Student("Masha", 25, 4)};
         Arrays.sort(students, (x1, x2) -> x1.getName().compareTo(x2.getName()));
 
+        for (Student student : students) {
+            System.out.println(student);
+        }
+
 
 
         for (Student student : students) {
